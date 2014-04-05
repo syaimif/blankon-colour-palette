@@ -5,8 +5,6 @@ Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 Homepage: https://github.com/syaimif/blankon-colour-pallete
-Vcs-Git: git@github.com:syaimif/blankon-colour-palette.git
-Vcs-Browser: https://github.com/syaimif/blankon-colour-palette.git
 
 Package: blankon-colour-palette
 Architecture: all
