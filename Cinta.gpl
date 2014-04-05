@@ -25,11 +25,9 @@ Name: Cinta
 255 255 153 Kuning Muda ( #FFFF99FF)
 111   0 255 Nila (#6F00FF80FF)
 143   0 255 Violet (#8F00FFFF)
-128   0 128 Ungu (#800080FF)
+191   0 255 Ungu (#BF00FFFF)
 150  75   0 Coklat (#964B00FF)
 128   5   0 Maron (#80050080FF)
 128 128   0 Zaitun (#808000FF)
-
-
-
-
+192 192 192 Perak (##C0C0C0FF)
+255   0 255 Magenta (##FF00FFFF)
