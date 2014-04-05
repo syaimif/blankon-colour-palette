@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: palette-cinta
-Source: https://github.com/syaimif/pallete-cinta
+Upstream-Name: blankon-colour-pallete
+Source: https://github.com/syaimif/blankon-colour-palette
 
 Files: *
 Copyright: 2014 Shokibi Imgos <istanalinux@gmail.com>
