@@ -1,14 +1,14 @@
-Source: palette-cinta
+Source: blankon-colour-pallete
 Section: graphics
 Priority: optional
 Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
-Homepage: https://github.com/syaimif/pallete-cinta
-Vcs-Git: git@github.com:syaimif/pallete-cinta.git
-Vcs-Browser: https://github.com/syaimif/pallete-cinta.git
+Homepage: https://github.com/syaimif/blankon-colour-pallete
+Vcs-Git: git@github.com:syaimif/blankon-colour-palette.git
+Vcs-Browser: https://github.com/syaimif/blankon-colour-palette.git
 
-Package: palette-cinta
+Package: blankon-colour-palette
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Typical palette art team of Blankon
