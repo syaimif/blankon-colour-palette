@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/palette-cinta.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/palette-cinta.git;a=summary
+Homepage: https://github.com/syaimif/pallete-cinta
+Vcs-Git: git@github.com:syaimif/pallete-cinta.git
+Vcs-Browser: https://github.com/syaimif/pallete-cinta.git
 
 Package: palette-cinta
 Architecture: any
