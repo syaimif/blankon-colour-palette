@@ -1,0 +1,15 @@
+Source: palette-cinta
+Section: graphics
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/palette-cinta.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/palette-cinta.git;a=summary
+
+Package: palette-cinta
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Typical palette art team of Blankon
+ This palette use for art team of Blankon for inkscape or gimp
